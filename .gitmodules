@@ -1,0 +1,3 @@
+[submodule "datasets/tunisien/scrapped_texts"]
+	path = datasets/tunisien/scrapped_texts
+	url = https://github.com/ziedsb19/pfe_scrping.git
