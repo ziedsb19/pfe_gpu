@@ -1,5 +1,5 @@
 #custom zied
-messages/
+all_messages/
 /datasets/lang_det/**
 transformers/runs
 transformers/tun
